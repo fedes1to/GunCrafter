@@ -1,0 +1,208 @@
+// LOCALIZABLE 1.1
+
+//Leaderboards
+"Boards" = "排行榜";
+"Leaderboards" = "高分榜";
+"LeaderboardsFull" = "高分榜";
+"Getting Scores" = "正在获取分数";
+
+//In App Purchase
+"Connecting to store" = "正在连接商店";
+"PurchaseCancelled" = "购买已取消";
+"PurchaseFailed" = "购买失败";
+"RestoreFailed" = "恢复失败";
+"Restore" = "恢复";
+"CLAIM" = "领取";
+"Consecutive" = "连续检查插件";
+"Day" = "日";
+"PrizeReady" = "您将奖励已准备好！立即领取！";
+"PR_Claimed" = "奖品已领取！";
+"PR_ComeBack" = "一小时内再来一场比赛，可赢得其他奖品！";
+"RemoveAds" = "停止检视广告跟任何购买的物品!";
+"RemoveAdsShort" = "停止检视广告跟任何购买的物品!";
+"Doubler_1" = "金币倍增";
+"Doubler_2" = "";
+"Prize" = "奖";
+
+//Popup
+"OK" = "确定";
+"Yes" = "是";
+"No" = "否";
+"Error" = "错误";
+"TryLater" = "请稍后再试";
+"Paused" = "已暂停";
+"PausedWaiting" = "您要退出吗？";
+"Quit" = "退出";
+"Resume" = "恢复";
+"Agree" = "同意";
+"Disconnected" = "已断开";
+"YouDisconnected" = "您已断开";
+"Unlock" = "解锁";
+"UnlockSure" = "您确定吗？";
+"NotEnough" = "不足";
+"GetMoreNow" = "现在获取更多？";
+"RateHead" = "你喜欢它吗？";
+"RateBody" = "我们将永远不会再问你一遍。 非常感谢你！"
+"Rate" = "估价";
+"Cancel" = "取消";
+
+//Player
+"Level" = "等级";
+"Rank" = "等级";
+"GainedLevel" = "您升级了！";
+"Wins" = "赢";
+"Win" = "赢";
+"Losses" = "损失";
+
+//Login
+"CHOOSE NAME" = "选择用户名";
+"Player" = "玩家";
+"MinCharacters" = "必须是英文字母或数字。 最少字符数";
+"SUBMIT" = "提交";
+"CannotChangeName" = "Please visit the Game Center app to make changes to your profile";
+
+//Friends
+"MY FRIEND CODE" = "我的好友代码";
+"ADD A FRIEND" = "添加好友";
+"ENTER CODE" = "朋友的代码";
+"Add" = "添加";
+"Email code" = "电子邮件代码";
+"LengthWarning_1" = "必须为";
+"LengthWarning_2" = "字符长";
+"CodeBonus" = "输入后，您将获得"
+"Adding" = "正在添加";
+"Added" = "已添加";
+"NoCode" = "代码不存在！";
+"AlreadyFriends" = "您们已经是好友";
+"Friends" = "好友";
+"FriendSubject" = "成为我的好友！";
+"FriendBody_1" = "这是我的好友代码，用于";
+"FriendBody_2" = "";
+"FriendLast" = "免费获取，快来玩吧！";
+
+//Social
+"Share" = "分享";
+"Shares" = "分享";
+"Email" = "电子邮件";
+"Save" = "保存";
+"Text" = "SMS";
+"Motto" = "座右铭";
+"Kick" = "赶走";
+"KickShort" = "赶走"; //踢出 Alternate translation
+"Leave" = "离开";
+"Name" = "名称"; //The name of your clan
+"Tag" = "标记"; //A three letter tag for your clan, like '(AvA)' for a clan called 'Alien invasion Alliance.' Not necessarily an acronym.
+"Join" = "加入"; //Join a team
+"Create" = "创建"; //Create a team
+"Invite Code" = "邀请码"; //Noun. The 8 letter invitation code that lets people join your team
+"Inv Code" = "邀请码"; 
+"Members" = "成员"; //The members of your clan
+"Private" = "私营";
+
+//Game Over
+"GO_PlayAgain" = "再比一次！";
+"GO_GiveUp" = "我放弃";
+"REMATCH" = "复赛";
+"REMATCHSHORT" = "复赛";
+"GIVE UP" = "放弃";
+"Victory" = "胜利";
+"Defeat" = "失败";
+"Draw" = "平";
+"Game Over" = "讫";
+"TRY AGAIN" = "再试一次";
+"Retry" = "再试一次";
+
+//Achievements
+"Completion" = "完成";
+"Achievements" = "奖励";
+"Awards" = "奖励";
+
+//Score
+"YOU" = "你";
+"OPP" = "对手";
+
+//Loading
+"Loading" = "正在加载";
+"Finding match" = "查找匹配";
+
+//More
+"COMING SOON" = "很快推出";
+"More" = "游戏";
+
+//Multiplayer
+"OpponentDisconnected" = "对手断开";
+"SoreLoser" = "真是个输不起的人";
+"MatchmakingFailed" = "匹配失败";
+
+//Guns
+"Gun" = "枪支";
+"Guns" = "枪支";
+"Ammo" = "弹药";
+"ACCURACY" = "准确性";
+"RANGE" = "距离";
+"RELOAD SPEED" = "重装弹药速度";
+"RECOIL" = "后坐力";
+"DAMAGE" = "损坏";
+"No gun" = "无枪";
+"Pocket Pistols" = "小手枪";
+"Handguns" = "手枪";
+"Specials" = "特殊枪支";
+"Rifles" = "步枪";
+"Heavy Rifles" = "重型步枪";
+"Barrel" = "枪管";
+
+//Settings
+"Gyroscope" = "陀螺仪";
+"NoGyroscope" = "轻扫于屏";
+"Sensitivity" = "精确";
+"Vibration" = "振动";
+"NoVibration" = "无振动";
+"UseVibration" = "使用振动反馈？";
+"Sound" = "声音";
+"Privacy Policy" = "隐私政策"; //Translated by us
+
+//Standard
+"Play" = "玩";
+"Exit" = "退出";
+"Practice" = "练习";
+"Invite" = "邀请";
+
+//Leaderboards
+"Total Wins" = "赢";
+"Friend Wins" = "朋友赢了";
+
+//Game
+"Continue" = "继续"; //Button to continue
+"Performance" = "性能"; //How well you performed in a match
+"Win Streak" = "连胜"; //How many games in a row you have won
+"Bonus" = "奖金"; //A bonus prize
+"Profile" = "用户"; //Button to view your user profile
+"Shop" = "铺"; //Button to view the store for purchasing items
+"Buy" = "铺"; //商店 alternate translation
+"Star" = "明星"; //Button for viewing the star of the week...like a 'celebrity' or a 'featured player'
+"High Score" = "成绩"; //You set a high score record
+"World Rank" = "世界排名"; //Your numerical ranking among all players
+"Online" = "在线";
+"FeatureBanner" = "本周的明星";
+"Fetching Star" = "下载";
+"Help" = "帮助";
+"Win Ratio" = "胜率";
+"Win Ratio Long" = "胜率";
+
+//END LOCALIZABLE GENERIC
+
+//Game
+"Currency" = "金币";
+"Build" = "打造";
+"Prizes" = "奖励";
+"Blocks" = "组块";
+"Pro pack" = "超级装备";
+"All grids" = "所有格子";
+"All levels" = "所有级别";
+"All blocks" = "所有组块";
+"Farm" = "农场";
+"Chance" = "机会";
+"Expert" = "专";
+"Creative" = "创作的";
+"Watch video" = "观看视频，赢取双倍！"; //Message explaining that, by watching a video, you can double the rewards you just earned 
+"More Naquatic games" = "更多 Naquatic 游戏"; //A banner that appears above a list of our other games that players can download. Please don't translate 'Naquatic' as this is our brand. 

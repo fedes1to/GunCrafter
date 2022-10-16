@@ -1,0 +1,208 @@
+// LOCALIZABLE 1.1
+
+//Leaderboards
+"Boards" = "Scores";
+"Leaderboards" = "Rangs";
+"LeaderboardsFull" = "Rangs";
+"Getting Scores" = "Voir Les Scores";
+
+//In App Purchase
+"Connecting to store" = "Connexion à la boutique";
+"PurchaseCancelled" = "Achat annulé";
+"PurchaseFailed" = "L'achat a échoué";
+"RestoreFailed" = "Restauration a échoué";
+"Restore" = "Rétablir";
+"CLAIM" = "RÉCUPÉRER";
+"Consecutive" = "consécutive";
+"Day" = "jour";
+"PrizeReady" = "Ton prix est prêt! Récupère-le tout de suite!";
+"PR_Claimed" = "PRIX RÉCUPÉRÉ";
+"PR_ComeBack" = "Reviens dans un jour, un autre prix t'attendra!";
+"RemoveAds" = "Désactiver les annonces avec aucun achat!";
+"RemoveAdsShort" = "Désactiver les annonces!";
+"Doubler_1" = "PIÈCE";
+"Doubler_2" = "doubleur";
+"Prize" = "Prix";
+
+//Popup
+"OK" = "OK";
+"Yes" = "Oui";
+"No" = "Non";
+"Error" = "Erreur";
+"TryLater" = "S'il vous plaît réessayer plus tard";
+"Paused" = "En pause";
+"PausedWaiting" = "Veux-tu abandonner?";
+"Quit" = "Quitter";
+"Resume" = "Reprendre";
+"Agree" = "Accepter";
+"Disconnected" = "Déconnexion";
+"YouDisconnected" = "Tu n'est plus connecté";
+"Unlock" = "Débloquer";
+"UnlockSure" = "Vraiment?";
+"NotEnough" = "Pas assez";
+"GetMoreNow" = "Tu en veux?";
+"RateHead" = "Ça vous plaît?";
+"RateBody" = "Nous n'allons jamais vous demander à nouveau. Merci beaucoup!"
+"Rate" = "Évaluer";
+"Cancel" = "Résilier";
+
+//Player
+"Level" = "Niveau";
+"Rank" = "Niveau";
+"GainedLevel" = "Tu montes de niveau!";
+"Wins" = "Victoires";
+"Win" = "Victoire";
+"Losses" = "Pertes";
+
+//Login
+"CHOOSE NAME" = "NOM D'UTILISATEUR";
+"Player" = "Joueur";
+"MinCharacters" = "Caractères minimum";
+"SUBMIT" = "SOUMETTRE";
+"CannotChangeName" = "Please visit the Game Center app to make changes to your profile";
+
+//Friends
+"MY FRIEND CODE" = "MON CODE D'AMI";
+"ADD A FRIEND" = "AJOUTER AMI";
+"ENTER CODE" = "Code de votre ami";
+"Add" = "Ajouter";
+"Email code" = "CODE E-MAIL";
+"LengthWarning_1" = "Longueur requise";
+"LengthWarning_2" = "caractères";
+"CodeBonus" = "À l'inscription, tu gagnes"
+"Adding" = "Ajout";
+"Added" = "Ajouté";
+"NoCode" = "Le code n'est pas!";
+"AlreadyFriends" = "Vous êtes déjà amis";
+"Friends" = "Amis";
+"FriendSubject" = "Soyons amis!";
+"FriendBody_1" = "Voici mon code d'ami pour";
+"FriendBody_2" = "";
+"FriendLast" = "Obtiens l'appli gratuitement et jouons!";
+
+//Social
+"Share" = "Partager";
+"Shares" = "Partages";
+"Email" = "Email";
+"Save" = "Enregistrer";
+"Text" = "SMS";
+"Motto" = "devise";
+"Kick" = "expulser";
+"KickShort" = "Excl.";
+"Leave" = "quitter";
+"Name" = "Nom"; //The name of your clan
+"Tag" = "Acronyme"; //A three letter tag for your clan, like '(AvA)' for a clan called 'Alien invasion Alliance.' Not necessarily an acronym.
+"Join" = "Rejoindre"; //Join a team
+"Create" = "Créer"; //Create a team
+"Invite Code" = "Code d'invitation"; //Noun. The 8 letter invitation code that lets people join your team
+"Inv Code" = "Code"; 
+"Members" = "Membres"; //The members of your clan
+"Private" = "Privé";
+
+//Game Over
+"GO_PlayAgain" = "On remet ça?";
+"GO_GiveUp" = "J'abandonne";
+"REMATCH" = "REVANCHE";
+"REMATCHSHORT" = "REVANCHE";
+"GIVE UP" = "ABANDONNER";
+"Victory" = "Victoire";
+"Defeat" = "Défaite";
+"Draw" = "Draw";
+"Game Over" = "Fini";
+"TRY AGAIN" = "ESSAIE ENCORE";
+"Retry" = "Refaire";
+
+//Achievements
+"Completion" = "Progression";
+"Achievements" = "Récompenses";
+"Awards" = "Récompenses";
+
+//Score
+"YOU" = "TU";
+"OPP" = "L'AUTRE";
+
+//Loading
+"Loading" = "Chargement";
+"Finding match" = "Mise en relation";
+
+//More
+"COMING SOON" = "PROCHAINEMENT";
+"More" = "plus";
+
+//Multiplayer
+"OpponentDisconnected" = "Adversaire déconnecté";
+"SoreLoser" = "Quel mauvais joueur";
+"MatchmakingFailed" = "A Échoué";
+
+//Guns
+"Gun" = "Arme";
+"Guns" = "Guns";
+"Ammo" = "Munitions";
+"ACCURACY" = "PRÉCISION";
+"RANGE" = "À DISTANCE";
+"RELOAD SPEED" = "VIT. RECHARGEMENT";
+"RECOIL" = "RECUL";
+"DAMAGE" = "DÉGÂTS";
+"No gun" = "Pas d'arme";
+"Pocket Pistols" = "Armes de Poche";
+"Handguns" = "Armes de Poing";
+"Specials" = "Spéciales";
+"Rifles" = "Fusils";
+"Heavy Rifles" = "Armes Lourdes";
+"Barrel" = "Canon";
+
+//Settings
+"Gyroscope" = "Gyroscope";
+"NoGyroscope" = "Baffer";
+"Sensitivity" = "Sensibilité";
+"Vibration" = "Vibration";
+"NoVibration" = "Sans Vibration";
+"UseVibration" = "Activer la vibration?";
+"Sound" = "Son";
+"Privacy Policy" = "Pol. de confidentialité"; //Translated by us
+
+//Standard
+"Play" = "Jouer";
+"Exit" = "Sortir";
+"Practice" = "Pratique";
+"Invite" = "Inviter";
+
+//Leaderboards
+"Total Wins" = "Victoires";
+"Friend Wins" = "Victoires Contre Amis";
+
+//Game
+"Continue" = "Continuer"; //Button to continue
+"Performance" = "Exécution"; //How well you performed in a match
+"Win Streak" = "Victoires Conséc."; //How many games in a row you have won
+"Bonus" = "Bonus"; //A bonus prize
+"Profile" = "Utilisateur"; //Button to view your user profile
+"Shop" = "Boutique"; //Button to view the store for purchasing items
+"Buy" = "Bout."; //Shorter shop, translated by us
+"Star" = "Céléb"; //Button for viewing the star of the week...like a 'celebrity' or a 'featured player'
+"High Score" = "Score Élevé"; //You set a high score record
+"World Rank" = "Rang Mondial"; //Your numerical ranking among all players
+"Online" = "Online";
+"FeatureBanner" = "Célébrité de la Semaine";
+"Fetching Star" = "Téléchargement";
+"Help" = "Aide";
+"Win Ratio" = "Taux"; //Translated by us for shortness
+"Win Ratio Long" = "Taux De Réussite"; 
+
+//END LOCALIZABLE GENERIC
+
+//Game
+"Currency" = "PIÈCES";
+"Build" = "Assembler";
+"Prizes" = "Prix";
+"Blocks" = "Blocs";
+"Pro pack" = "Pack Pro";
+"All grids" = "Tous grilles";
+"All levels" = "Tous niveaux";
+"All blocks" = "Tous blocs";
+"Farm" = "Ferme";
+"Chance" = "Chance";
+"Expert" = "Expert";
+"Creative" = "Créatif";
+"Watch video" = "Regardez une vidéo pour gagner deux fois plus !"; //Message explaining that, by watching a video, you can double the rewards you just earned 
+"More Naquatic games" = "Autres jeux Naquatic"; //A banner that appears above a list of our other games that players can download. Please don't translate 'Naquatic' as this is our brand. 

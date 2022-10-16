@@ -1,0 +1,208 @@
+// LOCALIZABLE 1.1
+
+//Leaderboards
+"Boards" = "Tablas";
+"Leaderboards" = "Líderes";
+"LeaderboardsFull" = "Líderes";
+"Getting Scores" = "Obteniendo Puntuaciones";
+
+//In App Purchase
+"Connecting to store" = "Conectando con la tienda";
+"PurchaseCancelled" = "Compra cancelada";
+"PurchaseFailed" = "Compra ha fallado";
+"RestoreFailed" = "Restauración fallida";
+"Restore" = "Restaurar";
+"CLAIM" = "OBTENER";
+"Consecutive" = "consecutiva";
+"Day" = "día";
+"PrizeReady" = "Tu premio te espera. ¡Consíguelo ya!";
+"PR_Claimed" = "¡OBTENIDO UN PREMIO!";
+"PR_ComeBack" = "¡Vuelve dentro de una dia para conseguir otro!";
+"RemoveAds" = "¡Compra y elimina los anuncios para siempre!";
+"RemoveAdsShort" = "¡Compra y elimina los anuncios!";
+"Doubler_1" = "doblador";
+"Doubler_2" = "de moneda";
+"Prize" = "Premio";
+
+//Popup
+"OK" = "Aceptar";
+"Yes" = "Sí";
+"No" = "No";
+"Error" = "Error";
+"TryLater" = "Por favor trate de nuevo más tarde";
+"Paused" = "Pausa";
+"PausedWaiting" = "¿Deseas salir?";
+"Quit" = "Salir";
+"Resume" = "Reanudar";
+"Agree" = "Aceptar";
+"Disconnected" = "Desconectado";
+"YouDisconnected" = "Te has desconectado";
+"Unlock" = "Desbloquear";
+"UnlockSure" = "¿Seguro?";
+"NotEnough" = "No es suficiente";
+"GetMoreNow" = "¿Quieres conseguir más ahora?";
+"RateHead" = "¿Gustaría? ¡Valora!";
+"RateBody" = "Nunca vamos a preguntar de nuevo. Muchas gracias!"
+"Rate" = "Valorar";
+"Cancel" = "Cancelar";
+
+//Player
+"Level" = "Nivel";
+"Rank" = "Nivel";
+"GainedLevel" = "¡Has subido de nivel!";
+"Wins" = "Juegos Ganados";
+"Win" = "Juego Ganado";
+"Losses" = "Pérdidas";
+
+//Login
+"CHOOSE NAME" = "ELIGE UN NOMBRE";
+"Player" = "Jugador";
+"MinCharacters" = "Mínimo De Caracteres";
+"SUBMIT" = "ENVIAR";
+"CannotChangeName" = "Please visit the Game Center app to make changes to your profile";
+
+//Friends
+"MY FRIEND CODE" = "CÓDIGO DE MI AMIGO";
+"ADD A FRIEND" = "AÑADIR AMIGO";
+"ENTER CODE" = "Código de tu amigo";
+"Add" = "Añadir";
+"Email code" = "Email";
+"LengthWarning_1" = "Deber tener";
+"LengthWarning_2" = "caracteres";
+"CodeBonus" = "Al introducirlo, conseguirás"
+"Adding" = "Añadiendo";
+"Added" = "Añadido";
+"NoCode" = "¡Ese código no es válido!";
+"AlreadyFriends" = "Ese usuario ya es amigo tuyo";
+"Friends" = "Amigos";
+"FriendSubject" = "¿Quieres ser mi amigo?";
+"FriendBody_1" = "Este es mi código de amigo de";
+"FriendBody_2" = "";
+"FriendLast" = "¡Descárgala gratis y juega conmigo!";
+
+//Social
+"Share" = "Compartir";
+"Shares" = "Compartido";
+"Email" = "Email";
+"Save" = "Guardar";
+"Text" = "SMS";
+"Motto" = "Lema";
+"Kick" = "Expulsa";
+"KickShort" = "Echar";
+"Leave" = "dejo";
+"Name" = "Nombre"; //The name of your clan
+"Tag" = "Id. clan"; //A three letter tag for your clan, like '(AvA)' for a clan called 'Alien invasion Alliance.' Not necessarily an acronym.
+"Join" = "Unirse"; //Join a team
+"Create" = "Crear"; //Create a team
+"Invite Code" = "Código de invitación"; //Noun. The 8 letter invitation code that lets people join your team
+"Inv Code" = "Código"; //Noun. The 8 letter invitation code that lets people join your team
+"Members" = "Miembros"; //The members of your clan
+"Private" = "Privado";
+
+//Game Over
+"GO_PlayAgain" = "¡Echemos otro partido!";
+"GO_GiveUp" = "¡Me rindo!";
+"REMATCH" = "REVANCHA";
+"REMATCHSHORT" = "REVANCHA";
+"GIVE UP" = "RENDIRSE";
+"Victory" = "Victoria";
+"Defeat" = "Derrota";
+"Draw" = "Égalité";
+"Game Over" = "Terminado";
+"TRY AGAIN" = "INTENTAR DE NUEVO";
+"Retry" = "Reintentar";
+
+//Achievements
+"Completion" = "Progreso";
+"Achievements" = "Premios";
+"Awards" = "Premios";
+
+//Score
+"YOU" = "YO";
+"OPP" = "OP";
+
+//Loading
+"Loading" = "Cargando";
+"Finding match" = "Buscando partida";
+
+//More
+"COMING SOON" = "PRÓXIMAMENTE";
+"More" = "más";
+
+//Multiplayer
+"OpponentDisconnected" = "Op desconectado";
+"SoreLoser" = "¡Qué mal perder!";
+"MatchmakingFailed" = "Fallo";
+
+//Guns
+"Gun" = "Arma";
+"Guns" = "Guns";
+"Ammo" = "Munición";
+"ACCURACY" = "PRECISIÓN";
+"RANGE" = "DISTANCIA";
+"RELOAD SPEED" = "VEL. DE RECARGA";
+"RECOIL" = "CULATAZO";
+"DAMAGE" = "DAÑO";
+"No gun" = "No tienes un arma";
+"Pocket Pistols" = "Pistola de Bolsillo";
+"Handguns" = "Pistolas";
+"Specials" = "Especiales";
+"Rifles" = "Rifles";
+"Heavy Rifles" = "Rifles Pesados";
+"Barrel" = "Cañón";
+
+//Settings
+"Gyroscope" = "Giróscopo";
+"NoGyroscope" = "Sin Giróscopo";
+"Sensitivity" = "Sensitivitdad";
+"Vibration" = "Vibración";
+"NoVibration" = "Sin Vibration";
+"UseVibration" = "¿Usar vibración del dispositivo?";
+"Sound" = "Sonido";
+"Privacy Policy" = "Pol. de privacidad"; //Translated by us
+
+//Standard
+"Play" = "Jugar";
+"Exit" = "Salir";
+"Practice" = "Practicar";
+"Invite" = "Invitar";
+
+//Leaderboards
+"Total Wins" = "Juegos Ganados";
+"Friend Wins" = "Ganados Contra Amigos";
+
+//Game
+"Continue" = "Continuar"; //Button to continue
+"Performance" = "Rendimiento"; //How well you performed in a match
+"Win Streak" = "Victorias Consec."; //How many games in a row you have won
+"Bonus" = "Bonus"; //A bonus prize
+"Profile" = "Usuario"; //Button to view your user profile
+"Shop" = "Tienda"; //Button to view the store for purchasing items
+"Buy" = "Tien."; //Shorter shop
+"Star" = "Celeb"; //Button for viewing the star of the week...like a 'celebrity' or a 'featured player'
+"High Score" = "Puntuación Alto"; //You set a high score record
+"World Rank" = "Rango Mundial"; //Your numerical ranking among all players
+"Online" = "Online";
+"FeatureBanner" = "Celebridad de la Semana";
+"Fetching Star" = "Descarga la Celebridad";
+"Help" = "Ayuda";
+"Win Ratio" = "Proporción"; //Translated by us for shortness
+"Win Ratio Long" = "Índice De Victorias";
+
+//END LOCALIZABLE GENERIC
+
+//Game
+"Currency" = "MONEDAS";
+"Build" = "Construir";
+"Prizes" = "Premios";
+"Blocks" = "Bloques";
+"Pro pack" = "Pro Pack";
+"All grids" = "100% mesas";
+"All levels" = "100% niveles";
+"All blocks" = "100% bloques";
+"Farm" = "Granja";
+"Chance" = "Oportunidad";
+"Expert" = "Experto";
+"Creative" = "Creativo";
+"Watch video" = "¡Mira un vídeo para ganar el doble!"; //Message explaining that, by watching a video, you can double the rewards you just earned 
+"More Naquatic games" = "Más juegos de Naquatic"; //A banner that appears above a list of our other games that players can download. Please don't translate 'Naquatic' as this is our brand. 

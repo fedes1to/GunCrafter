@@ -1,0 +1,208 @@
+// LOCALIZABLE 1.1
+
+//Leaderboards
+"Boards" = "Listen";
+"Leaderboards" = "Listen"; //Abbreviated name for leaderboards
+"LeaderboardsFull" = "Bestenlisten";
+"Getting Scores" = "Punkte werden geladen"; //Shown on loading screen while retrieving scores from the server
+
+//In App Purchase
+"Connecting to store" = "Verbindung zum Shop wird hergestellt"; //Shown on loading screen while connecting to the store
+"PurchaseCancelled" = "Kauf abgebrochen"; //User cancelled a purchase
+"PurchaseFailed" = "Kauf fehlgeschlagen";
+"RestoreFailed" = "Wiederherstellen fehlgeschlagen";
+"Restore" = "Wiederherstellen"; //Restore previously purchased items
+"CLAIM" = "EINFORDERN"; //Button to claim a prize
+"Consecutive" = "In Folge";
+"Day" = "Tag";
+"PrizeReady" = "Dein Preis wartet! Fordere ihn jetzt ein!";
+"PR_Claimed" = "PREIS EINGEFORDERT!";
+"PR_ComeBack" = "Komme morgen wieder für einen weiteren!";
+"RemoveAds" = "Werbung durch jeden Kauf entfernt!";
+"RemoveAdsShort" = "Werbung durch jeden Kauf entfernt!";
+"Doubler_1" = "Gold";
+"Doubler_2" = "Verdoppler"; //An item to purchase that allows you to earn twice as much currency as before
+"Prize" = "Preis";
+
+//Popup
+"OK" = "O.K.";
+"Yes" = "Ja";
+"No" = "Nein";
+"Error" = "Fehler";
+"TryLater" = "Bitte versuche es später erneut.";
+"Paused" = "Angehalten";
+"PausedWaiting" = "Beim Beenden geht alles Gold und Erfahrung aus diesem Spiel verloren.";
+"Quit" = "Beenden"; //Button to quit the game
+"Resume" = "Fortsetzen"; //Button to resume the game
+"Agree" = "Akzeptieren"; //I agree to the instructions on screen
+"Disconnected" = "Getrennt";
+"YouDisconnected" = "Die Verbindung wurde mitten im Spiel getrennt.";
+"Unlock" = "Entsperren"; //Unlock an item
+"UnlockSure" = "Sicher?";
+"NotEnough" = "Nicht genug"; //Not enough currency
+"GetMoreNow" = "Jetzt mehr erhalten?"; //Would you like to purchase more currency now?
+"RateHead" = "Gefällt dir die App? Bewerte sie!"; //Rate the app in the app store
+"RateBody" = "Wir fragen nie wieder. Vielen Dank!"; //We won't ask you to rate the app again
+"Rate" = "Bewerten"; //Button to rate the app in the app store
+"Cancel" = "Abbrechen";
+
+//Player
+"Level" = "Level"; //Your numerical level, i.e. Level 10
+"Rank" = "Rang"; //Your rank. Might be numerical, might be a title like 'Commander'
+"GainedLevel" = "Du hast dich um ein Level gesteigert!"; //You increased your numerical level
+"Wins" = "Siege"; //Games won
+"Win" = "Sieg";
+"Losses" = "Niederlagen"; //Games lost
+
+//Login
+"CHOOSE NAME" = "BENUTZERNAMEN AUSWÄHLEN"; //Choose your username
+"Player" = "Spieler"; //Generic name for a player who hasn't entered a name
+"MinCharacters" = "Mindestzeichen"; //The minimum number of characters for text entry, as in 'Minimum Characters: 4'
+"SUBMIT" = "ABSCHICKEN"; //Submit the data you have just entered
+"CannotChangeName" = "Gehe bitte zur Game Center App, um Änderungen an deinem Profil vorzunehmen.";
+
+//Friends
+"MY FRIEND CODE" = "MEIN FREUNDESCODE"; //The six character friend code that other people can enter to add you as a friend
+"ADD A FRIEND" = "FREUND HINZUFÜGEN";
+"ENTER CODE" = "Code des Freundes eingeben";
+"Add" = "Hinzufügen"; //Button to add the friend
+"Email code" = "Code per E-Mail"; //Button to email your friend code to someone
+"LengthWarning_1" = "Muss"; //The minimum number of characters for text entry. Combined with LengthWarning_2 to form a sentence like 'Must be 20 characters long'
+"LengthWarning_2" = "Zeichen lang sein";
+"CodeBonus" = "Nach Eingabe gewinnst du"; //Explains what you earn when someone enters your friend code. For example, 'When entered, you earn: 20 gold'
+"Adding" = "Wird hinzugefügt"; //Shown on loading screen while attempting to add friend
+"Added" = "Hinzugefügt!"; //Shown after friend is succesfully added
+"NoCode" = "Code existiert nicht!"; //No one has the firend code you entered
+"AlreadyFriends" = "Ihr seid bereits befreundet";
+"Friends" = "Freunde"; //Title shown above a list of friends
+"FriendSubject" = "Sei mein Freund!"; //Translate loosely. This is the beginning of an email you can send to someone asking them to enter your friend code
+"FriendBody_1" = "Dies ist mein Freundescode für"; //Combined with FriendBody_2 to make a sentence like 'This is my friend code for Super Mario 64'
+"FriendBody_2" = "";
+"FriendLast" = "Lade die App kostenlos herunter und lass uns spielen!"; //Telling your friend to get the app for free so that you can play together
+
+//Social
+"Share" = "Teilen"; //Button to share online
+"Shares" = "Mal geteilt"; //The number of times you've shared
+"Email" = "E-Mail"; //Button to email something
+"Save" = "Speichern"; //Button to save a photo you have taken
+"Text" = "SMS";
+"Motto" = "Motto";
+"Kick" = "Rausschmeißen";
+"KickShort" = "Kicke";
+"Leave" = "verlassen";
+"Name" = "Name"; //The name of your clan
+"Tag" = "Kurzform"; //A three letter tag for your clan, like '(AvA)' for a clan called 'Alien invasion Alliance.' Not necessarily an acronym.
+"Join" = "Beitreten"; //Join a team
+"Create" = "Erstellen"; //Create a team
+"Invite Code" = "Einladungscode"; //Noun. The 8 letter invitation code that lets people join your team
+"Inv Code" = "Code"; 
+"Members" = "Mitglieder"; //The members of your clan
+"Private" = "Privat";
+
+//Game Over
+"GO_PlayAgain" = "Auf ein Neues!"; //Translate loosely. Something someone would say if they want to challenge their opponent to a rematch
+"GO_GiveUp" = "Ich gebe auf"; //Translate loosely. Something someone would say if they don't want a rematch
+"REMATCH" = "REVANCHE"; //Button to rematch
+"REMATCHSHORT" = "REVANCHE";
+"GIVE UP" = "AUFGEBEN"; //Button to not rematch
+"Victory" = "Sieg"; //Noun. Shown on screen when you win
+"Defeat" = "Niederlage"; //Noun. Shown on screen when you lose
+"Draw" = "Unentschieden"; //Noun, a tie. Shown on screen when both players have the same score
+"Game Over" = "Game Over";
+"TRY AGAIN" = "ERNEUT"; //Button to try again
+"Retry" = "Wiederholen"; //Button to retry
+
+//Achievements
+"Completion" = "Vollendung"; //Your completion percentage
+"Achievements" = "Leistungen"; //Game achievements
+"Awards" = "Preise"; //A short version of achievements
+
+//Score
+"YOU" = "DU"; //Abbreviation for score
+"OPP" = "GEGNER"; //Abbreviation for opponent's score
+
+//Loading
+"Loading" = "Wird geladen"; //Shown on screen during a loading menu
+"Finding match" = "Spiel wird gesucht"; //Shown on screen while looking for a match
+
+//More
+"COMING SOON" = "DEMNÄCHST VERFÜGBAR"; //A game that hasn't been released yet
+"More" = "Mehr"; //Button to view a list of other games you can download
+
+//Multiplayer
+"OpponentDisconnected" = "Gegner getrennt"; //Your opponent disconnected from the match
+"SoreLoser" = "Was ein elender Verlierer"; //Translate loosely. This is shown on screen after your opponent disconnects
+"MatchmakingFailed" = "Gegner finden fehlgeschlagen"; //Failed to find an opponent for you
+
+//Guns
+"Gun" = "Waffe";
+"Guns" = "Waffen";
+"Ammo" = "Munition"; //Gun ammunition
+"ACCURACY" = "GENAUIGKEIT"; //How accurate is your gun
+"RANGE" = "REICHWEITE"; //How far can your gun shoot
+"RELOAD SPEED" = "NACHLADEGESCHWINDIGKEIT"; //How long does it take to reload your gun
+"RECOIL" = "RÜCKSTOß"; //How much the gun kicks back when firing. Sometimes called 'kickback'
+"DAMAGE" = "SCHADEN"; //How much damage your gun will do
+"No gun" = "Keine Waffe"; //You haven't selected a gun
+"Pocket Pistols" = "Taschenpistole"; //Very small guns
+"Handguns" = "Handfeuerwaffe"; //Small guns
+"Specials" = "Besondere"; //Special weapons
+"Rifles" = "Gewehre"; //Rifle guns
+"Heavy Rifles" = "Schwere Geschütze"; //Heavier duty rifle guns
+"Barrel" = "Lauf"; //The barrel of a gun
+
+//Settings
+"Gyroscope" = "Gyroskop";
+"NoGyroscope" = "Zielen durch Streichen"; //Aim by swiping instead of using the gyroscope
+"Sensitivity" = "Empfindlichkeit"; //Aiming sensitivity. If sensitivity is high, a tiny swipe moves your aim by a great distance.
+"Vibration" = "Vibration"; //Use vibration
+"NoVibration" = "Keine Vibration"; //Don't use vibration
+"UseVibration" = "Möchtest du Vibrationsfeedback verwenden?";
+"Sound" = "Ton";
+"Privacy Policy" = "Datenschutzerklärung"; //Translated by us
+
+//Standard
+"Play" = "Spielen"; //Button to start playing a match
+"Exit" = "Verlassen"; //Verb, button to quit
+"Practice" = "Training"; //Button to start a practice game
+"Invite" = "Einladen"; //Button to invite a friend to play
+
+//Leaderboards
+"Total Wins" = "Gesamtsiege"; //The number of games you've won
+"Friend Wins" = "Siege über Freunde"; //The number of times you've beaten your friends
+
+//Game
+"Continue" = "Weiter"; //Button to continue
+"Performance" = "Leistung"; //How well you performed in a match
+"Win Streak" = "Siegesserie"; //How many games in a row you have won
+"Bonus" = "Bonus"; //A bonus prize
+"Profile" = "Profil"; //Button to view your user profile
+"Shop" = "Shop"; //Button to view the store for purchasing items
+"Buy" = "Shop"; //Shorter shop
+"Star" = "Star"; //Button for viewing the star of the week...like a 'celebrity' or a 'featured player'
+"High Score" = "HIGHSCORE"; //You set a high score record
+"World Rank" = "Weltrangliste"; //Your numerical ranking among all players
+"Online" = "Online";
+"FeatureBanner" = "Star of the Week";
+"Fetching Star" = "Fetching Star";
+"Help" = "Hilfe";
+"Win Ratio" = "Verhältnis"; //Translated by us for shortness
+"Win Ratio Long" = "Anteil Der Siege";
+
+//END LOCALIZABLE GENERIC
+
+//Game
+"Currency" = "Gold";
+"Build" = "Zusammenbauen";
+"Prizes" = "Preise";
+"Blocks" = "Blöcke";
+"Pro pack" = "VIP-Paket";
+"All grids" = "Alle Gitter"; //Button that unlocks all grids. Grids are the platforms on which you build your guns, and they come in different sizes like 2x3, 5x8, etc
+"All levels" = "Alle Level"; //Button to unlock all of the levels (stages) in the game
+"All blocks" = "Alle Blöcke"; //Button to unlock all of the different building blocks/pieces you can use to make guns
+"Farm" = "Bebauen"; //Verb - A button that takes you to a mode where you plant and harvest trees
+"Chance" = "Drehen"; //Translation for SPIN from GCH
+"Expert" = "fachmännisch"; //Translated by us
+"Creative" = "kreativ"; //Translated by us
+"Watch video" = "Betrachte ein Video, um doppelt so viel zu erhalten!"; //Message explaining that, by watching a video, you can double the rewards you just earned 
+"More Naquatic games" = "Mehr Spiele von Naquatic"; //A banner that appears above a list of our other games that players can download. Please don't translate 'Naquatic' as this is our brand. 

@@ -1,0 +1,208 @@
+// LOCALIZABLE 1.1
+
+//Leaderboards
+"Boards" = "Boards";
+"Leaderboards" = "Boards";
+"LeaderboardsFull" = "Leaderboards";
+"Getting Scores" = "Getting Scores";
+
+//In App Purchase
+"Connecting to store" = "Connecting to store";
+"PurchaseCancelled" = "Purchase cancelled";
+"PurchaseFailed" = "Purchase failed";
+"RestoreFailed" = "Restore Failed";
+"Restore" = "Restore";
+"CLAIM" = "CLAIM";
+"Consecutive" = "Consecutive";
+"Day" = "Day";
+"PrizeReady" = "Your prize is ready! Claim it now!";
+"PR_Claimed" = "PRIZE CLAIMED!";
+"PR_ComeBack" = "Come back tomorrow for another one!";
+"RemoveAds" = "Ads removed with any purchase!";
+"RemoveAdsShort" = "No more ads";
+"Doubler_1" = "Gold";
+"Doubler_2" = "Doubler";
+"Prize" = "Prize";
+
+//Popup
+"OK" = "OK";
+"Yes" = "Yes";
+"No" = "No";
+"Error" = "Error";
+"TryLater" = "Please try again later";
+"Paused" = "Paused";
+"PausedWaiting" = "If you quit, you will forfeit all gold and experience earned in this match.";
+"Quit" = "Quit";
+"Resume" = "Resume";
+"Agree" = "Agree";
+"Disconnected" = "Disconnected";
+"YouDisconnected" = "You disconnected in the middle of a match";
+"Unlock" = "Unlock";
+"UnlockSure" = "Are you sure?";
+"NotEnough" = "Not enough";
+"GetMoreNow" = "Get more now?";
+"RateHead" = "Like it? Rate it!";
+"RateBody" = "We will never ask again. Many thanks!"
+"Rate" = "Rate";
+"Cancel" = "Cancel";
+
+//Player
+"Level" = "Level";
+"Rank" = "Rank";
+"GainedLevel" = "You gained a level!";
+"Wins" = "Wins";
+"Win" = "Win";
+"Losses" = "Losses";
+
+//Login
+"CHOOSE NAME" = "CHOOSE USERNAME";
+"Player" = "Player";
+"MinCharacters" = "Minimum Characters";
+"SUBMIT" = "SUBMIT";
+"CannotChangeName" = "Please visit the Game Center app to make changes to your profile";
+
+//Friends
+"MY FRIEND CODE" = "MY FRIEND CODE";
+"ADD A FRIEND" = "ADD A FRIEND";
+"ENTER CODE" = "Enter Friend's Code";
+"Add" = "Add";
+"Email code" = "Email code";
+"LengthWarning_1" = "Must be";
+"LengthWarning_2" = "characters long";
+"CodeBonus" = "When entered, you earn"
+"Adding" = "Adding";
+"Added" = "Added!";
+"NoCode" = "Code does not exist!";
+"AlreadyFriends" = "You are already friends";
+"Friends" = "Friends";
+"FriendSubject" = "Be My Friend!";
+"FriendBody_1" = "This is my friend code for";
+"FriendBody_2" = "";
+"FriendLast" = "Get it for free and let's play!";
+
+//Social
+"Share" = "Share";
+"Shares" = "Shares";
+"Email" = "Email";
+"Save" = "Save";
+"Text" = "Text";
+"Motto" = "Motto";
+"Kick" = "Kick";
+"KickShort" = "Kick";
+"Leave" = "Leave";
+"Name" = "Name"; //The name of your clan
+"Tag" = "Tag"; //A three letter tag for your clan, like '(AvA)' for a clan called 'Alien invasion Alliance.' Not necessarily an acronym.
+"Join" = "Join"; //Join a team
+"Create" = "Create"; //Create a team
+"Invite Code" = "Invite Code"; //Noun. The 8 letter invitation code that lets people join your team
+"Inv Code" = "Invite Code"; 
+"Members" = "Members"; //The members of your clan
+"Private" = "Private";
+
+//Game Over
+"GO_PlayAgain" = "Let's play again!";
+"GO_GiveUp" = "I give up";
+"REMATCH" = "REMATCH";
+"REMATCHSHORT" = "REMATCH";
+"GIVE UP" = "GIVE UP";
+"Victory" = "Victory";
+"Defeat" = "Defeat";
+"Draw" = "Draw";
+"Game Over" = "Game Over";
+"TRY AGAIN" = "TRY AGAIN";
+"Retry" = "Retry";
+
+//Achievements
+"Completion" = "Completion";
+"Achievements" = "Achievements";
+"Awards" = "Awards";
+
+//Score
+"YOU" = "YOU";
+"OPP" = "OPP";
+
+//Loading
+"Loading" = "Loading";
+"Finding match" = "Finding match";
+
+//More
+"COMING SOON" = "COMING SOON";
+"More" = "More";
+
+//Multiplayer
+"OpponentDisconnected" = "Opp disconnected";
+"SoreLoser" = "What a sore loser";
+"MatchmakingFailed" = "Matchmaking Failed";
+
+//Guns
+"Gun" = "Gun";
+"Guns" = "Guns";
+"Ammo" = "Ammo";
+"ACCURACY" = "ACCURACY";
+"RANGE" = "RANGE";
+"RELOAD SPEED" = "RELOAD SPEED";
+"RECOIL" = "RECOIL";
+"DAMAGE" = "DAMAGE";
+"No gun" = "No gun";
+"Pocket Pistols" = "Pocket Pistols";
+"Handguns" = "Handguns";
+"Specials" = "Specials";
+"Rifles" = "Rifles";
+"Heavy Rifles" = "Heavy Rifles";
+"Barrel" = "Barrel";
+
+//Settings
+"Gyroscope" = "Gyroscope";
+"NoGyroscope" = "Swipe Aiming";
+"Sensitivity" = "Sensitivity";
+"Vibration" = "Vibration";
+"NoVibration" = "No Vibration";
+"UseVibration" = "Would you like to use vibration feedback?";
+"Sound" = "Sound";
+"Privacy Policy" = "Privacy Policy";
+
+//Standard
+"Play" = "Play";
+"Exit" = "Exit";
+"Practice" = "Practice";
+"Invite" = "Invite";
+
+//Leaderboards
+"Total Wins" = "Total Wins";
+"Friend Wins" = "Friend Wins";
+
+//Game
+"Continue" = "Continue"; //Button to continue
+"Performance" = "Performance"; //How well you performed in a match
+"Win Streak" = "Win Streak"; //How many games in a row you have won
+"Bonus" = "Bonus"; //A bonus prize
+"Profile" = "Profile"; //Button to view your user profile
+"Shop" = "Shop"; //Button to view the store for purchasing items
+"Buy" = "Shop"; //Shorter shop
+"Star" = "Star"; //Button for viewing the star of the week...like a 'celebrity' or a 'featured player'
+"High Score" = "High Score"; //You set a high score record
+"World Rank" = "World Rank"; //Your numerical ranking among all players
+"Online" = "Online";
+"FeatureBanner" = "Star of the Week";
+"Fetching Star" = "Fetching Star";
+"Help" = "Help";
+"Win Ratio" = "Win Ratio";
+"Win Ratio Long" = "Win Ratio";
+
+//END LOCALIZABLE GENERIC
+
+//Game
+"Currency" = "Gold";
+"Build" = "Build";
+"Prizes" = "Prizes";
+"Blocks" = "Blocks";
+"Pro pack" = "Pro Pack";
+"All grids" = "All grids";
+"All levels" = "All levels";
+"All blocks" = "All blocks";
+"Farm" = "Farm";
+"Chance" = "Chance";
+"Expert" = "Expert";
+"Creative" = "Creative";
+"Watch video" = "Watch a video to earn extra gold!"; //Message explaining that, by watching a video, you can double the rewards you just earned 
+"More Naquatic games" = "More Naquatic games"; //A banner that appears above a list of our other games that players can download. Please don't translate 'Naquatic' as this is our brand. 

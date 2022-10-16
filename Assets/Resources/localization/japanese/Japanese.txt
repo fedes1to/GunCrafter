@@ -1,0 +1,208 @@
+// LOCALIZABLE 1.1
+
+//Leaderboards
+"Boards" = "ランキング";
+"Leaderboards" = "ランキング"; //Abbreviated name for leaderboards
+"LeaderboardsFull" = "ランキング";
+"Getting Scores" = "スコア取得中"; //Shown on loading screen while retrieving scores from the server
+
+//In App Purchase
+"Connecting to store" = "ショップに接続"; //Shown on loading screen while connecting to the store
+"PurchaseCancelled" = "購入がキャンセルされたよ"; //User cancelled a purchase
+"PurchaseFailed" = "購入できなかったよ";
+"RestoreFailed" = "復元できなかったよ";
+"Restore" = "復元"; //Restore previously purchased items
+"CLAIM" = "ゲット"; //Button to claim a prize
+"Consecutive" = "連続ゲット数";
+"Day" = "日";
+"PrizeReady" = "賞品が待ってるよ！今すぐゲット！";
+"PR_Claimed" = "賞品をゲットした！";
+"PR_ComeBack" = "明日来ればまたもらえるよ！";
+"RemoveAds" = "購入すれば広告は消えるよ！";
+"RemoveAdsShort" = "購入すれば広告は消えるよ！";
+"Doubler_1" = "ゴールド";
+"Doubler_2" = "２倍アイテム"; //An item to purchase that allows you to earn twice as much currency as before
+"Prize" = "賞品";
+
+//Popup
+"OK" = "OK";
+"Yes" = "はい";
+"No" = "いいえ";
+"Error" = "エラー";
+"TryLater" = "また後で試してね";
+"Paused" = "一時停止中";
+"PausedWaiting" = "終了する場合はマッチで手に入れたすべてのゴールドと経験値はキャンセルされるよ";
+"Quit" = "終了"; //Button to quit the game
+"Resume" = "ゲームに戻る"; //Button to resume the game
+"Agree" = "同意する"; //I agree to the instructions on screen
+"Disconnected" = "接続切れ";
+"YouDisconnected" = "マッチの途中で接続が切れたよ";
+"Unlock" = "ロック解除"; //Unlock an item
+"UnlockSure" = "本当にいい？";
+"NotEnough" = "足りないよ"; //Not enough currency
+"GetMoreNow" = "もっとゲットする？"; //Would you like to purchase more currency now?
+"RateHead" = "気に入ったなら評価してね！"; //Rate the app in the app store
+"RateBody" = "聞くのはこれが最後だよ。よろしくね！"; //We won't ask you to rate the app again
+"Rate" = "評価する"; //Button to rate the app in the app store
+"Cancel" = "キャンセル";
+
+//Player
+"Level" = "レベル"; //Your numerical level, i.e. Level 10
+"Rank" = "ランク"; //Your rank. Might be numerical, might be a title like 'Commander'
+"GainedLevel" = "レベルアップ！"; //You increased your numerical level
+"Wins" = "勝ち"; //Games won
+"Win" = "勝ち";
+"Losses" = "負け"; //Games lost
+
+//Login
+"CHOOSE NAME" = "ユーザー名を選ぼう"; //Choose your username
+"Player" = "プレーヤー"; //Generic name for a player who hasn't entered a name
+"MinCharacters" = "最低文字数"; //The minimum number of characters for text entry, as in 'Minimum Characters: 4'
+"SUBMIT" = "送信"; //Submit the data you have just entered
+"CannotChangeName" = "プロフィールの編集は Game Center のアプリ内でできるよ";
+
+//Friends
+"MY FRIEND CODE" = "フレンドコード"; //The six character friend code that other people can enter to add you as a friend
+"ADD A FRIEND" = "フレンドを追加";
+"ENTER CODE" = "フレンドコードを入力";
+"Add" = "追加"; //Button to add the friend
+"Email code" = "コードをメール送信"; //Button to email your friend code to someone
+"LengthWarning_1" = "最低で"; //The minimum number of characters for text entry. Combined with LengthWarning_2 to form a sentence like 'Must be 20 characters long'
+"LengthWarning_2" = "文字必要だよ";
+"CodeBonus" = "入力したらゲット"; //Explains what you earn when someone enters your friend code. For example, 'When entered, you earn: 20 gold'
+"Adding" = "追加中"; //Shown on loading screen while attempting to add friend
+"Added" = "追加したよ！"; //Shown after friend is succesfully added
+"NoCode" = "コードが間違ってるよ！"; //No one has the firend code you entered
+"AlreadyFriends" = "そのフレンドは追加済みだよ";
+"Friends" = "フレンド"; //Title shown above a list of friends
+"FriendSubject" = "フレンドになろう！"; //Translate loosely. This is the beginning of an email you can send to someone asking them to enter your friend code
+"FriendBody_1" = "私/僕のフレンドコード"; //Combined with FriendBody_2 to make a sentence like 'This is my friend code for Super Mario 64'
+"FriendBody_2" = "";
+"FriendLast" = "無料ゲットして一緒に遊ぼう！"; //Telling your friend to get the app for free so that you can play together
+
+//Social
+"Share" = "シェア"; //Button to share online
+"Shares" = "回シェア済み"; //The number of times you've shared
+"Email" = "メール送信"; //Button to email something
+"Save" = "保存"; //Button to save a photo you have taken
+"Text" = "SMS";
+"Motto" = "モットー";
+"Kick" = "追い出す";
+"KickShort" = "追放";
+"Leave" = "去る";
+"Name" = "名前"; //The name of your clan
+"Tag" = "タグ"; //A three letter tag for your clan, like '(AvA)' for a clan called 'Alien invasion Alliance.' Not necessarily an acronym.
+"Join" = "参加"; //Join a team
+"Create" = "作成"; //Create a team
+"Invite Code" = "招待コード"; //Noun. The 8 letter invitation code that lets people join your team
+"Inv Code" = "招待コード"; 
+"Members" = "メンバー"; //The members of your clan
+"Private" = "私立";
+
+//Game Over
+"GO_PlayAgain" = "リマッチ！"; //Translate loosely. Something someone would say if they want to challenge their opponent to a rematch
+"GO_GiveUp" = "やめる"; //Translate loosely. Something someone would say if they don't want a rematch
+"REMATCH" = "リマッチ"; //Button to rematch
+"REMATCHSHORT" = "リマッチ";
+"GIVE UP" = "やめる"; //Button to not rematch
+"Victory" = "勝ち"; //Noun. Shown on screen when you win
+"Defeat" = "負け"; //Noun. Shown on screen when you lose
+"Draw" = "引き分け"; //Noun, a tie. Shown on screen when both players have the same score
+"Game Over" = "ゲームオーバー";
+"TRY AGAIN" = "もう一度トライ"; //Button to try again
+"Retry" = "再挑戦"; //Button to retry
+
+//Achievements
+"Completion" = "クリア"; //Your completion percentage
+"Achievements" = "実績"; //Game achievements
+"Awards" = "成績"; //A short version of achievements
+
+//Score
+"YOU" = "自分"; //Abbreviation for score
+"OPP" = "相手"; //Abbreviation for opponent's score
+
+//Loading
+"Loading" = "ロード中"; //Shown on screen during a loading menu
+"Finding match" = "マッチ検索中"; //Shown on screen while looking for a match
+
+//More
+"COMING SOON" = "近日リリース"; //A game that hasn't been released yet
+"More" = "ゲーム"; //Button to view a list of other games you can download
+
+//Multiplayer
+"OpponentDisconnected" = "対戦相手の接続が切れたよ"; //Your opponent disconnected from the match
+"SoreLoser" = "困ったね"; //Translate loosely. This is shown on screen after your opponent disconnects
+"MatchmakingFailed" = "対戦相手が見つからないよ"; //Failed to find an opponent for you
+
+//Guns
+"Gun" = "銃";
+"Guns" = "銃";
+"Ammo" = "弾"; //Gun ammunition
+"ACCURACY" = "命中精度"; //How accurate is your gun
+"RANGE" = "射距離"; //How far can your gun shoot
+"RELOAD SPEED" = "リロード速度"; //How long does it take to reload your gun
+"RECOIL" = "反動"; //How much the gun kicks back when firing. Sometimes called 'kickback'
+"DAMAGE" = "ダメージ"; //How much damage your gun will do
+"No gun" = "銃未選択"; //You haven't selected a gun
+"Pocket Pistols" = "小型ピストル"; //Very small guns
+"Handguns" = "ピストル"; //Small guns
+"Specials" = "スペシャル"; //Special weapons
+"Rifles" = "ライフル"; //Rifle guns
+"Heavy Rifles" = "ヘビーライフル"; //Heavier duty rifle guns
+"Barrel" = "銃身"; //The barrel of a gun
+
+//Settings
+"Gyroscope" = "ジャイロスコープ";
+"NoGyroscope" = "スワイプ"; //Aim by swiping instead of using the gyroscope
+"Sensitivity" = "感度"; //Aiming sensitivity. If sensitivity is high, a tiny swipe moves your aim by a great distance.
+"Vibration" = "振動あり"; //Use vibration
+"NoVibration" = "振動なし"; //Don't use vibration
+"UseVibration" = "振動フィードバックを使用する？";
+"Sound" = "サウンド";
+"Privacy Policy" = "個人情報保護方針"; //Translated by us
+
+//Standard
+"Play" = "プレイ"; //Button to start playing a match
+"Exit" = "終了"; //Verb, button to quit
+"Practice" = "練習"; //Button to start a practice game
+"Invite" = "フレンド招待"; //Button to invite a friend to play
+
+//Leaderboards
+"Total Wins" = "勝利数"; //The number of games you've won
+"Friend Wins" = "対戦勝利数"; //The number of times you've beaten your friends
+
+//Game
+"Continue" = "続行"; //Button to continue
+"Performance" = "パフォーマンス"; //How well you performed in a match
+"Win Streak" = "連続勝利数"; //How many games in a row you have won
+"Bonus" = "ボーナス"; //A bonus prize
+"Profile" = "プロフィール"; //Button to view your user profile
+"Shop" = "商店"; //Button to view the store for purchasing items. ショップ Alternate translation
+"Buy" = "商店"; //Shorter shop, translated by us
+"Star" = "注目プレーヤー"; //Button for viewing the star of the week...like a 'celebrity' or a 'featured player'
+"High Score" = "ハイスコア"; //You set a high score record
+"World Rank" = "総合順位"; //Your numerical ranking among all players
+"Online" = "オンライン";
+"FeatureBanner" = "Star of the Week";
+"Fetching Star" = "Fetching Star";
+"Help" = "助けて";
+"Win Ratio" = "勝率";
+"Win Ratio Long" = "勝率";
+
+//END LOCALIZABLE GENERIC
+
+//Game
+"Currency" = "ゴールド";
+"Build" = "ビルド";
+"Prizes" = "賞品";
+"Blocks" = "ブロック"; //Translated by us from 'All blocks'
+"Pro pack" = "プロパック";
+"All grids" = "すべてのグリッド"; //Button that unlocks all grids. Grids are the platforms on which you build your guns, and they come in different sizes like 2x3, 5x8, etc
+"All levels" = "すべてのステージ"; //Button to unlock all of the levels (stages) in the game
+"All blocks" = "すべてのブロック"; //Button to unlock all of the different building blocks/pieces you can use to make guns
+"Farm" = "ファーム"; //Verb - A button that takes you to a mode where you plant and harvest trees
+"Chance" = "スピン"; //Translation for SPIN from GCH
+"Expert" = "上手"; //Translated by us
+"Creative" = "クリエーティブ"; //Translated by us
+"Watch video" = "動画を見て獲得量を倍に！"; //Message explaining that, by watching a video, you can double the rewards you just earned 
+"More Naquatic games" = "Naquaticその他のゲーム"; //A banner that appears above a list of our other games that players can download. Please don't translate 'Naquatic' as this is our brand. 
